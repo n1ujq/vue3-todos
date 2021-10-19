@@ -1932,9 +1932,9 @@ aproba@^1.1.1:
   resolved "https://registry.nlark.com/aproba/download/aproba-1.2.0.tgz#6802e6264efd18c790a1b0d517f0f2627bf2c94a"
   integrity sha1-aALmJk79GMeQobDVF/DyYnvyyUo=
 
-"ar-front@https://github.com/yetrun/ar-front.git":
+"ar-front@https://github.com/n1ujq/ar-front.git":
   version "0.1.0-preview"
-  resolved "https://github.com/yetrun/ar-front.git#da285e1e2eb4c7e96732f303a9e0b2e1273238a6"
+  resolved "https://github.com/n1ujq/ar-front.git#2cf4c677c49733ec071ec33f1d895e8c07cfc15f"
   dependencies:
     lodash "^4.17.21"
 

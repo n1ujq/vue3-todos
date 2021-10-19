@@ -1,5 +1,5 @@
 // eslint-disable-next-line import/no-absolute-path
-import { Model as ModelFactory, Collection as CollectionFactory } from '/Users/njq/Metalab/code/ar-front/lib/index.js'
+import { Model as ModelFactory, Collection as CollectionFactory } from 'ar-front'
 
 const Model = ModelFactory.config({
   defineAttributesIn: 'object',

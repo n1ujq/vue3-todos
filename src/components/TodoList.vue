@@ -56,6 +56,8 @@ onBeforeMount(async () => {
 })
 
 async function addTodo () {
+  if (!state.newTodo.description) return
+
   await state.newTodo.save()
 
   state.newTodo = state.todos.new()
